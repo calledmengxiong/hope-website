@@ -1,0 +1,53 @@
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and environment files
+*.log
+.env
+.env.*
+
+# Dependency/cache folders
+node_modules/
+.cache/
+cache/
+tmp/
+temp/
+__pycache__/
+
+# Design source files and compressed archives
+*.psd
+*.ai
+*.zip
+*.rar
+*.7z
+
+# Temporary downloads and test cache files
+*.part
+*.tmp
+*.temp
+*.bak
+
+# Local screenshots / throwaway captures
+screenshots/
+temp-screenshots/
+test-cache/
+
+# Unused root-level source/reference images.
+# Keep website images in assets/ and the root images still referenced by HTML/CSS.
+/ChatGPT Image *.png
+!/ChatGPT Image 2026年5月25日 17_53_52.png
+/Exhibition*.jpg
+/Factory*.jpg
+/Factory tour*.jpg
+/Factory1.png
+/50f68c85c03659aa5338d197ce0ee29b.png
+/5c6a84b50d65f19cff3b7f69ba6561ce.png
+/bb829472034efca77975632c6e725665.png
+/hpoe-logo.png
+/Glossy Release Paper.png
+/Matte Release Paper.png
+/PU Synthetic Leather Paper.png
+/Silicone Release Paper.png
+/business-card-hope/
