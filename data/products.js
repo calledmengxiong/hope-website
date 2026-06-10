@@ -85,7 +85,7 @@
     "pu-resin": "assets/products/water-based-pu-resin.webp",
     "release-paper": "assets/products/embossed-release-paper.webp",
     plasticizer: "assets/products/eco-friendly-plasticizer.webp",
-    "fabric-base-material": "assets/products/microfiber-base-fabric.webp",
+    "fabric-base-material": "assets/category-artificial-fabric.png",
     "artificial-leather": "assets/products/pu-synthetic-leather.webp"
   };
 
@@ -124,7 +124,7 @@
     ["plasticizer", "totm", "", ["Heat-resistant PVC", "Cable compounds", "Industrial coatings", "Flexible materials"]],
     ["plasticizer", "bio-based-plasticizer", "", ["Flexible PVC", "Coated materials", "Synthetic leather", "Eco-conscious formulations"]],
     ["plasticizer", "eco-friendly-plasticizer", "", ["PVC synthetic leather", "Flexible PVC film", "Coating compounds", "Industrial material formulations"]],
-    ["fabric-base-material", "nonwoven-fabric", "assets/products/microfiber-base-fabric.webp", ["Synthetic leather backing", "Coated fabric", "Lamination", "Industrial material base"]],
+    ["fabric-base-material", "nonwoven-fabric", "assets/category-artificial-fabric.png", ["Synthetic leather backing", "Coated fabric", "Lamination", "Industrial material base"]],
     ["fabric-base-material", "knitted-fabric", "", ["Coated textile", "Synthetic leather", "Garment materials", "Furniture backing"]],
     ["fabric-base-material", "microfiber-base-fabric", "", ["Microfiber leather", "Shoe upper material", "Bags", "Upholstery backing"]],
     ["fabric-base-material", "polyester-fabric", "", ["Coated textiles", "Synthetic leather backing", "Industrial fabrics", "Lamination"]],
